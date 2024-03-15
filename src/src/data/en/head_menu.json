@@ -1,0 +1,7 @@
+[
+  {"title": "Home", "active": false, "name": "home", "link":"/", "mobileButton": false},
+  {"title": "Shop", "active": true, "name": "shop", "link":"/shop", "mobileButton": false},
+  {"title": "Offers", "active": false, "name":"offers", "link":"/offers", "mobileButton": false},
+  {"title": "FAQ", "active": false, "name":"manual", "link":"/quistions", "mobileButton": false},
+  {"title": "Support", "active": false, "name":"support", "link":"/support", "mobileButton": false}
+]

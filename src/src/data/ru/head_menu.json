@@ -1,0 +1,7 @@
+[
+  {"title": "На главную", "active": false, "name": "home", "link":"/", "mobileButton": false},
+  {"title": "Магазин", "active": false, "name": "shop", "link":"/shop", "mobileButton": false},
+  {"title": "Предложения", "active": true, "name":"offers", "link":"/offers", "mobileButton": false},
+  {"title": "FAQ", "active": false, "name":"manual", "link":"/quistions", "mobileButton": false},
+  {"title": "Поддержка", "active": false, "name":"support", "link":"/support", "mobileButton": false}
+]

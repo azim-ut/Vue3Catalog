@@ -1,0 +1,12 @@
+@import './base.css';
+
+body{
+    font-family: sans-serif; font-weight: lighter;
+
+}
+
+@media (hover: hover) {
+}
+
+@media (min-width: 1024px) {
+}

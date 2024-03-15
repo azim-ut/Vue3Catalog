@@ -1,7 +1,7 @@
 
 <template>
   <header>
-    <HeadMenu />
+    <HeadBlock />
   </header>
 
   <RouterView />
@@ -15,10 +15,10 @@ import {mapStores} from "pinia";
 import {catalogStore} from "@/stores/catalog/catalog";
 import {cartStore} from "@/stores/cart/cart";
 import type {CartItem} from "@/stores/cart/type";
-import HeadMenu from "@/components/HeadMenu.vue";
+import HeadBlock from "@/components/HeadBlock.vue";
 
 export default defineComponent({
-  components: {HeadMenu},
+  components: {HeadBlock},
   computed: {
     ...mapStores(catalogStore, cartStore)
   },
